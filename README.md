@@ -1,0 +1,1 @@
+# Assistente_de_Voz_Inteligente_com_Gemini_-_Whisper
